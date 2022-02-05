@@ -5,3 +5,23 @@ Install plotly and cufflinks to call plots directly off of a pandas dataframe. T
 pip install plotly
 
 pip install cufflinks
+
+# Using Cufflinks and iplot()
+
+scatter
+
+bar
+
+box
+
+spread
+
+ratio
+
+heatmap
+
+surface
+
+histogram
+
+bubble
