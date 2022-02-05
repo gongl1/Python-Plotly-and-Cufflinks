@@ -25,3 +25,10 @@ surface
 histogram
 
 bubble
+
+
+# 3d Surface
+
+df3 = pd.DataFrame({'x':[1,2,3,4,5],'y':[10,20,30,20,10],'z':[5,4,3,2,1]})
+
+df3.iplot(kind='surface',colorscale='rdylbu')
